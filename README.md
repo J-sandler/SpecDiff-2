@@ -16,15 +16,6 @@ python3 specdiff_decode.py \
   --verify_temp 0.0
 ```
 
-```bash
-python3 specdiff_decode.py \
-  --diffusion_model_name "./SpecDiffu-Qwen2.5-14B-(no-kv)/step-80000" \
-  --verify_model_name Qwen/Qwen2.5-7B-Instruct \
-  --prompt "Write a function in python that implements a residual neural network. Answer: \n ```python \n" \
-  --gamma 16 --k 16 --max_new_tokens 512 \
-  --verify_temp 0.0
-```
-
 To test on a benchmark (e.g., `gsm8k_prompts.txt` included here), feed the file and collect aggregated stats through the decode script’s batch mode:
 
 ```bash
