@@ -1,4 +1,4 @@
-# SpecDiff Dev Legacy
+# SpecDiff-2
 
 This folder powers the SpecDiff diffusion+verifier pipeline. The `specdiff_decode.py` entrypoint copies the deployment inference flow, while training helpers (`distill_diffu_drafter.py`, `distill_diffu_phase3.py`, etc.) generate distillation data and fine‑tune drafter variants.
 (See requirements.txt file)
