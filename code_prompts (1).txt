@@ -1,0 +1,42 @@
+Question: Write a Python script to read a CSV file of stock prices and compute the daily returns and a 20-day moving average?
+Answer:
+```python
+Question: Write a Python script to scan a folder of text files and report the 20 most common words, ignoring case and punctuation?
+Answer:
+```python
+Question: Write a Python script to simulate rolling two six-sided dice 1,000,000 times and estimate the probability of rolling a sum of 7?
+Answer:
+```python
+Question: Write a Python script to load a JSON dataset of users and output a new JSON file containing only users who logged in within the last 30 days?
+Answer:
+```python
+Question: Write a Python script to benchmark the inference speed (tokens/sec) of a Hugging Face causal language model on a given prompt set?
+Answer:
+```python
+Question: Write a Python script to implement k-means clustering from scratch and visualize the clusters on a 2D synthetic dataset?
+Answer:
+```python
+Question: Write a Python script to download historical price data for a ticker using yfinance and compute Sharpe and Sortino ratios?
+Answer:
+```python
+Question: Write a Python script to detect and remove duplicate images in a directory using perceptual hashing?
+Answer:
+```python
+Question: Write a Python script to simulate a basic limit order book and track mid-price, spread, and traded volume over time?
+Answer:
+```python
+Question: Write a Python script to parse a large log file line-by-line and extract error statistics into a summary report?
+Answer:
+```python
+Question: Write a Python script to implement speculative decoding with a small draft model and a large verifier model and report accepted-token streak lengths?
+Answer:
+```python
+Question: Write a Python script to train a simple neural network on MNIST using PyTorch and log GPU memory usage per iteration?
+Answer:
+```python
+Question: Write a Python script to crawl a list of URLs, extract all hyperlinks, and build a directed graph of the site structure?
+Answer:
+```python
+Question: Write a Python script to monitor a folder in real time and automatically back up new files to a timestamped archive?
+Answer:
+```python
