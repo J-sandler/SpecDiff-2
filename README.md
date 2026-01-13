@@ -48,7 +48,7 @@ Try looking at `code_stats.json' now to observe the throughput stats.
 cat code_stats.json
 ```
 
-Should expect ~3x+ speed-up over base models if running correctly (70+ tokens/sec). Recommend small context size while causal attention is in development.
+Should expect ~3x+ speed-up over base models if working correctly. Recommend small context size while causal attention is in development.
 
 ### Argument notes
 
